@@ -1,6 +1,9 @@
 # 💫 About Me:
 i am learning backend dev with python fast api and postgresql<br>
 
+![MuaKissGIF](https://github.com/user-attachments/assets/1814a06e-a590-46b8-b825-f50833d4b04a)
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rajato0o/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mr-rajat-79337b37a) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCoJkhLfeH44D_GQmktTrKzQ) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Rajat RTD) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajat9560r@gmail.com) 
