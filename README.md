@@ -1,5 +1,6 @@
 # 💫 About Me:
 i am learning backend dev with python fast api and postgresql<br>
+WPM-----> 30+
 
 ![MuaKissGIF](https://github.com/user-attachments/assets/1814a06e-a590-46b8-b825-f50833d4b04a)
 
