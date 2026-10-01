@@ -4,17 +4,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=rajat9560r-cloudRajat&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"
-       height="150"
-       width="500"
-       alt="streak graph" />
-</div>
-  
-</div>
-
-###
-
 <div data-importer="socials" align="center">
   <a href="www.linkedin.com/in/mr-rajat-79337b37a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -43,15 +32,6 @@
 
 ###
 
-
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=rajat9560r-cloudRajat.rajat9560r-cloudRajat&"  />
-</div>
-
-###
-
-<h1 data-importer="text" align="center">Hi and goodbie at the same time 😘</h1>
+<h1 data-importer="text" align="center">Hi and goodbie at the same time <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=rajat9560r-cloudRajat.rajat9560r-cloudRajat&"  /> </h1>
 
 ###
